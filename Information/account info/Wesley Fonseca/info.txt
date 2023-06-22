@@ -1,0 +1,77 @@
+Nome: Wesley Fonseca da Silva
+
+CPF: 021.816.231-63
+
+Data de nascimento: 01/10/1986
+
+Telefone: +55 61 995899539
+
+
+Endereço: Quadra 02, Conjunto C, Lote 20
+
+Bairro: Itapoã 1
+
+Cidade: Paranoá
+
+Estado: Brasília
+
+País: Brasil
+
+CEP: 71.590-206
+
+Name: Wesley Fonseca da Silva
+
+CPF: 021.816.231-63
+
+Date of birth: 10/01/1986
+
+Phone: +55 61 995899539
+
+
+Address: Quadra 02, Conjunto C, Lot 20
+
+Neighborhood: Itapoã 1
+
+City: Paranoá
+
+State: Brasilia
+
+Country Brazil
+
+CEP: 71.590-206
+
+My passion is solution! 
+No matter if it is from simple bug fix to an enterprise software architecture to a pressing problem that needs attention. I believe my purpose of life is to make things easy by providing optimum and effective solutions that are affordable.
+
+Hello, I am Wesley. A software professional by trade with close to 10 years of experience and counting. You can bank on two things - I won't break your trust and the solution that I provide will be highly reliable and durable.
+Thanks.
+
+University of Brasilia
+
+1. Software DeveloperKCL Law Society
+Jun 2018 - Sep 2018 (3 months, 1 day)
+- Developed the official KCL Law Society (KCLLS) application for iOS and Android. It show users news,
+events and sponsors of KCLLS.
+- Created using React-Native to cover platform agnostic implementation.
+- Used Redux/Thunk to efficiently manage the state of components.
+- Dealt with asynchronous calls to the backend composed of data in Google Firebase/store.
+- Led and motivated an agile team under strict time constraints.
+- Leverage Jest and expo for white/black box testing respectively.
+
+2.Software DeveloperComprehensive Medical Imaging
+Jul 2019 - Oct 2021 (2 years, 3 months)
+- Led, designed and developed a Radiology Information System (RIS).
+- Integrate solutions with existing modules.
+- Implement security strategies with role based permissions for sessions and external apis.
+- Compatible with third parties such as ACSS eClaims and Healthlink.
+- Using infrastructure as code with terraform to manage AWS kubernetes clusters (EKS).
+- Deployed with React.js frontend, and Django backend.
+
+3.Fullstack Lead Developer
+Ultragenic Global
+Oct 2021 - Present
+- Built out lambda functions for UltraIntake: A platform for processing, reporting and managing adverse events.
+- Utilised web scraping technologies such as Puppeteer over multiple health authority websites to obtain 60% of the cases processed by the platform.
+- Extended the processing capability of the platform with Natural Language Processing (NLP).
+- Carried out a majority of development in Typescript and Nodejs.
+

@@ -1,0 +1,35 @@
+Name: Mykaelly Myrelly Baíma Ribeiro Mariano
+
+
+Date of Birth: 02/06/1996 (June  02, 1996)
+
+CPF: 068.184.543-05
+
+phone: +55 61 983366086
+
+Home Address:
+Quadra 07 Mr 06 Lote 19 APT 102
+
+neighborhood:
+Setor Leste
+
+City: Planaltina-GO
+
+State: Goiás
+
+Country: Brasil
+
+Postal code: 73.752-070
+
+
+Greetings, I am Mykaelly. I have been doing computer programming for 7 years.
+I am proficient in both frontend and backend technologies such as React/Vue.js and Node.js/Ruby on Rails.
+I am always seeking new opportunities to grow as a developer and make meaningful contributions to clients.
+Always open to growth and challenges.
+
+
+CI&T
+
+
+
+

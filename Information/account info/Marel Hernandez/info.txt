@@ -1,0 +1,22 @@
+Name: Marel Antonio Hernandez 
+Birthday: 03/03/1998
+Address: 2nd Street NW, Veracruz, Copan, Honduras 41231
+
+Software Developer | Full Stack Developer with over 7+ years of successful experience in  Backend Development -> Node.js/NestJS/TypeORM and Python/Django/Ruby on Rails. Recognized consistently for performance excellence and contributions to success in Backend and Frontend development. Strengths in React, Vue.js, NodeJS, ExpressJS, RxJS, TypeScript, and MongoDB, MySQL, SQL, MVC and Services backed by training in the startup company.
+He is a diligent, detail orientated, dedicated coder, who ensures clients receives their requirements timely and precise. Developed Standard Operating Procedures (SOPs) for data extraction and Change Management (CHG) documentation. Having worked in many different programming environments and contributed to several open source projects he passionately enjoys working on the cutting edge technologies and solving difficult challenges.
+
+Senior Frontend Engineer
+-Selfbook
+Selfbook allows hotels to evolve their booking platform without changing the fundamental architecture of their existing website. Worked as a frontend developer to implement pixel perfect design and integrated various payment services like apple pay, google pay.React, Redux, Tailwind
+• React, Redux, Redux-Saga, Tailwind
+• AWS, Heroku
+You can more details at selfbook.com
+
+Senior Fullstack Engineer
+GoCobble
+GoCobble helps customers to build their own business in an intuitive way.
+I built up the backend and frontend myself from scratch using React/Rails.
+• React, Redux, Tailwind
+• Ruby on Rails
+• Postgres, Heroku
+You can find more details at gocobble.com

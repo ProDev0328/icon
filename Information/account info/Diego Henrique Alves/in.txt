@@ -1,0 +1,53 @@
+
++ 55 61 995683151
+
+Name: Diego Henrique Alves
+
+CPF: 028.852.021-14
+
+Date of birth: 12/22/1987
+
+Home address:
+
+CD Vale do Sol, CJ D, LT 24
+
+Neighborhood: Arapongas
+
+City: Planaltina
+
+State: Brasilia
+
+Country Brazil
+
+CEP: 73.375-543
+
+diego19871222@gmail.com
+
+I am Diego Alves, working full time as a senior full stack developer in web development .
+I have a big passion to help others with my web technologies.
+I have 7 years+ experiences in web development and have worked with small, medium and large businesses across US and Europe with different industries and types building small-large scaled websites and applications. I see technologies not only from a technical point of view but also a business point of view.
+I am a problem solver and I am proficient in troubleshooting any challenges I come across.
+I look forward to working with you and helping to grow your businesses digitally with world-class experience.
+
+University of Brasilia
+
+-Senior Web Developer
+
+Implemented a lot of Figma designs to pixel-perfect, responsive React and Vue.js frontend UI.
+Built reusable and clean React.js, Vue.js components with high-quality, optimized code and best practices.
+Collaborated with backend developers and data scientists to determine the best UI/UX.
+Implemented various bug fixes in existing codebases.
+
+-Full Stack Developer
+
+Develop and maintain multiple websites using React/Redux, Material-UI, Angular and Vue.
+Built user-friendly Node.js/NestJS Back-end for our React/Redux, Vue/Vuex/Vueity/Quasar Front-end websites.
+Built RESTful APIs sync with different kinds of databases and large datasets.
+
+-Lead Developer
+
+Provided a role of myself as a development team lead and project manager for different projects where my main responsibility was to create a scalable architecture and related activities so that the company can generate maximum revenue by building high quality web and mobile apps.
+
+
+
+

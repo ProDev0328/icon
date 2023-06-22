@@ -1,0 +1,34 @@
+Name: Geraldo Marques da Silva
+
+Date of Birth: 22/10/1975 (October 22, 1975)
+
+CPF: 039.869.014-69
+phone: +55 84 981318206
+
+Home Address:
+Rua Afonso Fernandes 6
+
+
+neighborhood:
+Boa Vista
+
+
+City: Caiçara do Rio do Vento
+
+
+State: Rio Grande do Norte
+
+
+Country: Brasil
+
+
+Postal code: 59.540-000
+
+
+Senior full stack developer with hands-on expertise in designing and developing captivating interfaces for websites and mobile applications. 
+Thrive on collaborating with multifaceted geniuses in fast-paced and dynamic workspaces. 
+Consistent and meaningful communication is the cornerstone of my work philosophy, as it serves as the primary barometer of triumph in the realm of software engineering. 
+My forte lies in my boundless creativity and unyielding perseverance.
+
+I harbor a profound affection for setbacks as I embrace the lessons they impart and learn how to overcome them with poise. 
+My optimistic outlook and determination to realize my aspirations ensure that I never surrender to adversity.

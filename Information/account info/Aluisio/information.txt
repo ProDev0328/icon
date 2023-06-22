@@ -1,0 +1,35 @@
+Name: Aluisio Aquino de Sousa
+
+
+Date of Birth: 06/06/1978 (June 06, 1978)
+
+CPF: 031.504.814-06
+phone: +55 87 996704804
+
+Home Address:
+Quadra S/N Lote 656
+
+
+neighborhood:
+Rua Deósio Pereira Lins 
+
+
+City: Serra Talhada
+
+
+State: Pernambuco
+
+
+Country: Brasil
+
+
+Postal code: 56.903-280
+
+React | Vue.js | Node.js | Rails | ChatGPT 
+
+20 years in the software industry as a software engineer I possess a thorough comprehension of the requisites for top-notch web applications and endeavors to furnish top-tier infrastructures that facilitate your growth and scaling endeavors safely and expeditiously.
+I am an ardent, seasoned, and self-driven full-stack web engineer possessing an array of skills and expertise in diverse programming languages and frameworks. 
+🟥 Front-end → React, React Native, Vue.js, Next.js, Nuxt.js, Angular, TailwindCSS, JavaScript (ES6+), TypeScript, Flutter/Dart
+🟥 Back-end → Node.js, NestJS/TypeORM, Python, Django, Ruby on Rails, Flask, C#, Java
+
+As an individual, I strongly embrace continual learning and am passionate about collaborative problem-solving aimed at resolving intricate issues.

@@ -1,0 +1,2 @@
+machineid 729-771
+netpass 19980328

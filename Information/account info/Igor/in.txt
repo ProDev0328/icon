@@ -1,0 +1,39 @@
+Nome: Igor Miguel Teixeira de Oliveira
+
+
+Data de Nascimento: 15/11/1996
+
+CPF: 018.033.134-55
+
+telefone: +55 84 996544844
+
+Endereço Residencial:
+Rua Serra da Gameleira Casa 17
+
+Bairro: Nova Descoberta
+
+Estado: Rio Grande do Norte
+
+Pais: Brasil
+
+CEP: 59.540-000
+
+Name: Igor Miguel Teixeira de Oliveira
+
+
+Date of Birth: 11/15/1996   ( November 15, 1996 )
+
+CPF: 018.033.134-55
+
+phone: +55 84 996544844
+
+Home Address:
+Rua Serra da Gameleira Casa 17
+
+Neighborhood: Nova Descoberta
+
+State: Rio Grande do Norte
+
+Country: Brasil
+
+Postal code: 59.540-000
