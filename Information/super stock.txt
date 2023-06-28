@@ -1,0 +1,25 @@
+HI this is Allysson and I am a senior full stack developer
+I have 7 years+ experiences in web development and have worked with small, medium and large businesses across US and Europe with different industries and types building small-large scaled websites and applications.
+And my strenghs are mostly both frontend and backend development with javascript, typescript and related frameworks like react, next.js and vue.js
+I have developed many web and mobile frontend and backend like shopping, cooking and food delivery, education, learning, CRM, marketplaces etcc
+using react and node express and other programming languages with mysql, postgresql and mongodb, I have built lots of complex logistic websites.
+Espeically Nodejs and Python are my major backend skills so I am very familiar with Nestjs/typeorm, graphql, django, ruby on rails.
+Additionally I am experience with cloud computings such as aws ec2, aws s3 and lamda function etc..
+react is my major frontend skills so I am very familiar with react, redux, react hook, react thunk, react saga, react material UI, bootstrap and as well as typescript.
+I am pretty much familiar with Python and machine learning.
+
+
+Python challenge----------------------------
+
+Yes, I have encountered some challenges while using Python, but I was able to overcome them with the help of online resources and the support of the Python community.
+
+One particular challenge I faced was when I was working on a project that required the use of multiple libraries with conflicting dependencies. This caused errors to occur in the code, and I had to spend a lot of time debugging it. To fix the issue, I researched the problem online and found that defining the specific versions of each library in the project's requirements file could help.
+
+Another challenge I faced was optimizing performance for computationally demanding tasks. To resolve this, I used the NumPy and Pandas libraries, which are designed to boost performance and improve data processing speed.
+
+Lastly, I encountered difficulty while learning to use certain libraries with complex APIs. To address this, I referred to detailed documentation and example code, which helped me in understanding and properly implementing the libraries.
+---------------------------------------------
+
+I have built head-to-head survey web platform named PollThePeople (https://pollthepeople.app/) with React and ChatGPT plugin. In this project, I have integrated analytics system to show responser's semantic and so on. I also built chatbot can answer any question about responses of responsers.
+
+https://us02web.zoom.us/j/5145348652

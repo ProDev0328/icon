@@ -1,0 +1,16 @@
+I am full stack developer and 
+I have over 8 years of experience in web development, working with businesses of all sizes across the US, Europe, and Australia in various industries. My portfolio includes small to large-scale websites and applications.
+
+I have worked with two companies based in Australia, one in the delivery industry and the other being Navardi Tuned, which is a website for BMW car enthusiasts. My strengths lie in both frontend and backend development, with expertise in JavaScript, TypeScript, PHP, and associated frameworks such as React, Next.js, Vue.js, Laravel, and Node.js. 
+
+I have developed numerous web and mobile applications in domains like shopping, cooking and food delivery, education, learning, CRM, machine learning projects, etc. I am well-versed in databases like MySQL, PostgreSQL, and MongoDB.
+
+I specialize in Laravel and Node.js for backend development and am equally proficient in Nest.js/TypeORM, GraphQL, Django, and Ruby on Rails. Additionally, I have excellent experience in PHP frameworks such as Symphony, Codeigniter, and Yii. 
+
+Furthermore, I am familiar with Python and have worked on several machine learning projects. I take pride in staying updated with the latest technologies and innovations, which enables me to deliver cutting-edge solutions that align with clients' strategic goals. 
+
+This is pretty about my experience.
+
+Furthermore, I have concurred with Adam to synchronize my work schedule with the Australian time zone, thus ensuring that my business hours overlap with yours.
+
+I have built head-to-head survey web platform named PollThePeople (https://pollthepeople.app/) with React and ChatGPT plugin. In this project, I have integrated analytics system to show responser's semantic and so on. I also built chatbot can answer any question about responses of responsers.
